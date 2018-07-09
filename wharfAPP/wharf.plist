@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>ipatest</string>
+                <string>wharfipa</string>
                 <key>title</key>
-                <string>ipatest</string>
+                <string>wharfipa</string>
             </dict>
         </dict>
     </array>
